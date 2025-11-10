@@ -14,3 +14,5 @@
 
 📫 **Connect**
 [Email](mailto:tzou0605@gmail.com)
+
+![Wei-lun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wei-luntsou&show_icons=true&theme=radical)

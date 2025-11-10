@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Wei-lun Tsou!
 
-<!--
-**weiluntsou/weiluntsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **About Me**
+- 💻 Computer Science student passionate about AI, backend systems, and open-source development.  
+- 🌱 Currently learning: Docker, Flask, Tailwind, and data visualization.
+- 🎨 Interests: Interior design, human–AI interaction, and system automation.
 
-Here are some ideas to get you started:
+📂 **Projects & Highlights**
+- 🗂️ [Gantt Chart Management System](https://github.com/wei-luntsou/gantt-visualizer): Flask + Tailwind + SQLite
+- 🤖 [Prompt Design Workshop](https://github.com/wei-luntsou/prompt-design): A guide for effective prompt engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **Tech Stack**
+> Python · JavaScript · Flask · Tailwind CSS · SQLite · Docker · Git · VS Code
+
+📫 **Connect**
+[Email](mailto:tzou0605@gmail.com)

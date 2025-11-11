@@ -5,12 +5,9 @@
 - 🌱 Currently learning: Docker, Flask, Tailwind, and data visualization.
 - 🎨 Interests: Interior design, human–AI interaction, and system automation.
 
-📂 **Projects & Highlights**
-- 🗂️ [Gantt Chart Management System](https://github.com/wei-luntsou/gantt-visualizer): Flask + Tailwind + SQLite
-- 🤖 [Prompt Design Workshop](https://github.com/wei-luntsou/prompt-design): A guide for effective prompt engineering
 
 ⚙️ **Tech Stack**
-> Python · JavaScript · Flask · Tailwind CSS · SQLite · Docker · Git · VS Code
+> Python · JavaScript · Flask 
 
 📫 **Connect**
 [Email](mailto:tzou0605@gmail.com)

@@ -10,6 +10,6 @@
 > Python · JavaScript · Flask 
 
 📫 **Connect**
-[Email](mailto:tzou0605@gmail.com)
+[Email](mailto:tzou0605@gmail.com) | [LinkedIn](www.linkedin.com/in/weilun-tsou-bba24777) |
 
 ![Wei-lun's GitHub stats](https://github-readme-stats.vercel.app/api?username=weiluntsou&show_icons=true&theme=radical)
